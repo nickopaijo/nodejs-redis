@@ -1,4 +1,4 @@
-## Contoh cara implementasi redis di nodejs
+## Contoh cara implementasi redis di windows dengan nodejs
 - Dokumentasi API **nodejs-redis**: https://documenter.getpostman.com/view/16401113/2s8ZDbWg1J#f6cb6cea-2dfe-4f0d-9882-2b2f7b24c1a8
 
 ## Konfigurasi Redis WSL Debian
